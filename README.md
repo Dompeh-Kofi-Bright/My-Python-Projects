@@ -1,0 +1,1 @@
+# This repository contains all projects I did when I was an intermediate in python
