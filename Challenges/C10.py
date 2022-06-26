@@ -13,6 +13,7 @@ while(state == "continue"):
         print("\nGAME OVER\n")
     else:
         print("Looser!!")
-
+ 
+print("Done")
         
 

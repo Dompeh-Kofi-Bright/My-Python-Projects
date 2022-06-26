@@ -12,5 +12,5 @@ while(i<=4):
     print(grades[i])
     i = i + 1
 
-print("Done")
+
     
