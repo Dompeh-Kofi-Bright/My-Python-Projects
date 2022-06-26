@@ -1,3 +1,6 @@
+#This is a simple Rock, Paper, Scissors
+# Game in Python
+ 
 from random import*
 
 prompt = "> "
